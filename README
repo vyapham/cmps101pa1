@@ -1,4 +1,3 @@
-Submission contains:
 	   List.java:		List ADT and its operations
 	   ListClient.java:	To test List.java
 	   Lex.java:		Main part; read String inputs from a file and place into a new list in lexicographic order, then print the value in string in that order 
